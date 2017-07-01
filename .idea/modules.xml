@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/book/book.iml" filepath="$PROJECT_DIR$/book/book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book-apigateway/book-apigateway.iml" filepath="$PROJECT_DIR$/book-apigateway/book-apigateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/checkin/checkin.iml" filepath="$PROJECT_DIR$/checkin/checkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/checkin-apigateway/checkin-apigateway.iml" filepath="$PROJECT_DIR$/checkin-apigateway/checkin-apigateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-spring-cloud.iml" filepath="$PROJECT_DIR$/learn-spring-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search/search.iml" filepath="$PROJECT_DIR$/search/search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search-apigateway/search-apigateway.iml" filepath="$PROJECT_DIR$/search-apigateway/search-apigateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/website/website.iml" filepath="$PROJECT_DIR$/website/website.iml" />
+    </modules>
+  </component>
+</project>

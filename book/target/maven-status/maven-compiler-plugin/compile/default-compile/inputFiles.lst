@@ -1,0 +1,13 @@
+/home/tamami/belajar/learn-spring-cloud/book/src/main/java/lab/aikibo/etc/Fare.java
+/home/tamami/belajar/learn-spring-cloud/book/src/main/java/lab/aikibo/exception/BookingException.java
+/home/tamami/belajar/learn-spring-cloud/book/src/main/java/lab/aikibo/repo/BookingRepository.java
+/home/tamami/belajar/learn-spring-cloud/book/src/main/java/lab/aikibo/entity/Passenger.java
+/home/tamami/belajar/learn-spring-cloud/book/src/main/java/lab/aikibo/entity/Inventory.java
+/home/tamami/belajar/learn-spring-cloud/book/src/main/java/lab/aikibo/controller/BookingController.java
+/home/tamami/belajar/learn-spring-cloud/book/src/main/java/lab/aikibo/entity/BookingRecord.java
+/home/tamami/belajar/learn-spring-cloud/book/src/main/java/lab/aikibo/component/BookingComponent.java
+/home/tamami/belajar/learn-spring-cloud/book/src/main/java/lab/aikibo/repo/InventoryRepository.java
+/home/tamami/belajar/learn-spring-cloud/book/src/main/java/lab/aikibo/constant/BookingStatus.java
+/home/tamami/belajar/learn-spring-cloud/book/src/main/java/lab/aikibo/BookApp.java
+/home/tamami/belajar/learn-spring-cloud/book/src/main/java/lab/aikibo/component/Receiver.java
+/home/tamami/belajar/learn-spring-cloud/book/src/main/java/lab/aikibo/component/Sender.java
