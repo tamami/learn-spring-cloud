@@ -11,6 +11,8 @@
         <module name="checkin" />
         <module name="checkin-apigateway" />
         <module name="config-server" />
+        <module name="fares" />
+        <module name="fares-apigateway" />
         <module name="search" />
         <module name="search-apigateway" />
         <module name="website" />
@@ -22,6 +24,8 @@
       <module name="checkin" target="1.8" />
       <module name="checkin-apigateway" target="1.8" />
       <module name="config-server" target="1.6" />
+      <module name="fares" target="1.8" />
+      <module name="fares-apigateway" target="1.8" />
       <module name="learn-spring-cloud" target="1.5" />
       <module name="search" target="1.8" />
       <module name="search-apigateway" target="1.8" />

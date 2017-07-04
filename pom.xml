@@ -17,6 +17,8 @@
     <module>search</module>
     <module>book</module>
     <module>checkin</module>
+    <module>fares-apigateway</module>
+    <module>fares</module>
   </modules>
 
 

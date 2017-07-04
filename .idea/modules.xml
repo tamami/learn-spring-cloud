@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/checkin/checkin.iml" filepath="$PROJECT_DIR$/checkin/checkin.iml" />
       <module fileurl="file://$PROJECT_DIR$/checkin-apigateway/checkin-apigateway.iml" filepath="$PROJECT_DIR$/checkin-apigateway/checkin-apigateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fares/fares.iml" filepath="$PROJECT_DIR$/fares/fares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fares-apigateway/fares-apigateway.iml" filepath="$PROJECT_DIR$/fares-apigateway/fares-apigateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/learn-spring-cloud.iml" filepath="$PROJECT_DIR$/learn-spring-cloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/search/search.iml" filepath="$PROJECT_DIR$/search/search.iml" />
       <module fileurl="file://$PROJECT_DIR$/search-apigateway/search-apigateway.iml" filepath="$PROJECT_DIR$/search-apigateway/search-apigateway.iml" />
